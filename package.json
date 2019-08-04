@@ -1,0 +1,15 @@
+{
+  "name": "cmp-json-desc",
+  "version": "1.0.0",
+  "description": "Generate json description for React Components",
+  "main": "read-folder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milan Martinek",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
